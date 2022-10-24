@@ -8,5 +8,5 @@ https://www.kaggle.com/datasets/ramjasmaurya/fortune-1000-companieslatest
 1. Comparison of the top ten companies based on some metrics (revenue, revenue change, profits, profits change, assets, market value, and employees).
 2. The relationship between rank, performance, and value.
 
-### Final Result:
+### Github Page Result:
 https://muharienal.github.io/us-fortune-100-eda/
