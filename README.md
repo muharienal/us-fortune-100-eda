@@ -11,7 +11,9 @@ Until 1989, it listed only non-United States industrial corporations under the t
 
 Several inconsistencies exist in Fortune's ranking of cities with the most Fortune 500 headquarters. On June 3, 2011, the Atlanta Business Chronicle stated examples of Fortune including regional headquarters for some cities, excluding regional headquarters for other cities, and in some cases excluding headquarters that are physically located inside a city limit.
 
-BUT THIS IS THE Extended version of The Fortune Global 500
+DATA is Scrapped FROM Fortune 500 companies magazine ranking is on the basis of employability and revenue.
+
+THIS IS THE Extended version of The Fortune Global 500 in 2022.
 
 ### Task
 1. Comparison of the top ten companies based on some metrics (revenue, revenue change, profits, profits change, assets, market value, and employees).
