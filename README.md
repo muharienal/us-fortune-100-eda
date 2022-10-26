@@ -1,5 +1,5 @@
 # US FORTUNE TOP 100 COMPANIES 2022 EDA
-Explore data analysis on US Fortune Top 1000 Companies 2022 dataset to gain insight using Python.
+Exploratory data analysis on US Fortune Top 1000 Companies 2022 dataset to gain insight using Python.
 
 ### Dataset Source
 https://www.kaggle.com/datasets/ramjasmaurya/fortune-1000-companieslatest
